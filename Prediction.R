@@ -4,6 +4,7 @@ set.seed(54321)
 
 # 5/8/2015
 #Revenue Prediction competition
+#To download data visit:
 # https://www.kaggle.com/c/restaurant-revenue-prediction/data
 
 # Data Processing ---------------------------------------------------------
