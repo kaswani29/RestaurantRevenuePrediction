@@ -1,4 +1,4 @@
-# KaggleRevenuePrediction
+# Revenue Prediction Model for Restaurant Sales
 Predict annual restaurant sales based on objective measurements
 
 This code is for predicting revenue for restaurants. Its based on the kaggle competition https://www.kaggle.com/c/restaurant-revenue-prediction
